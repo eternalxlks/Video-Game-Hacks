@@ -2,3 +2,4 @@ I am sorrry, I am no coder. All the cheats in here are all working cheats by oth
 
 
 PS. Also check out the Bruno Store!
+https://brunozhon.github.io/?search_query=Comment
