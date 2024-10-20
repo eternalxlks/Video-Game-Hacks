@@ -5,3 +5,4 @@ To run these cheats, go to the assigned game, and open the searchbar, and type: 
 
 PS. Also check out the Bruno Store!
 https://brunozhon.github.io/?search_query=Comment
+Or my own website: https://eternalxlks.github.io/
