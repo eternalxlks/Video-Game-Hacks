@@ -1,8 +1,4 @@
-I am sorry, I am no coder. All the cheats in here are all working cheats by other people. (except my website and (shell shockers mod panel) I spent a really long time finding and testing these hacks. I hope you enjoy!
+Hey, this is a collection of cheats made by me and other people. '
 
-
-To run these cheats, go to the assigned game, and open the searchbar, and type: javascript:pastecodehere
-
-PS. Also check out the Bruno Store!
-https://brunozhon.github.io/?search_query=Comment
-Or my own website: https://eternalxlks.github.io/
+PS. check out my website! 
+https://eternalxlks.github.io
